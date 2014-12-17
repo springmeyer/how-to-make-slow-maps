@@ -8,7 +8,7 @@ Here are some tips:
 
 ### Data prep
 
-1. Before tiling your data union every geometry in your dataset into a single feature so that the extent of your unioned geometry is the same as your entire dataset. This will ensure that this spatial indexes are useless and this feature has to be processed completely for every tile you cut.
+1. Before tiling your data union every geometry in your dataset into a single feature so that the extent of your unioned geometry is the same as your entire dataset. This will ensure that spatial indexes are useless and this feature has to be processed completely for every tile you cut.
 
 
 ### Graphics programming
@@ -18,9 +18,13 @@ Here are some tips:
 
 ### Benchmarking
 
-1. Write a benchmark that profiles the startup time of your program instead of profiling your program in use. Then optimize the shit out of it. To do this you might consider moving rarely used data structures to globals so they compiler can initialize then right away statically. If you hit crashes don't worry just keep optimizing.
+1. Write a benchmark that profiles the startup time of your program instead of profiling your program in use. Then optimize the shit out of it. To do this you might consider moving rarely used data structures to globals so the compiler can initialize them statically. If you hit crashes don't worry just keep optimizing.
 
 
 
-1. More to come (TODO: harvest any still relevant ideas from [2014](https://github.com/IvanSanchez/slides-slow-maps) and [2011](http://dbsgeo.com/foss4g2011/foss4g2011-lecture2-how-to-make-slow-maps.pdf).
+### MORE!
+
+More to come! TODO: harvest any still relevant ideas from [2014](https://github.com/IvanSanchez/slides-slow-maps) and [2011](http://dbsgeo.com/foss4g2011/foss4g2011-lecture2-how-to-make-slow-maps.pdf).
+
+Pull requests welcome from your experience making slow maps of any kind.
 
