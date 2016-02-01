@@ -2,7 +2,7 @@ Slow maps
 
 ![](http://www.snail-world.com/wp-content/uploads/snail-front.jpg)
 
-It's 2015 and slow maps are rarer and more tasty than ever. Never before has the hand crafted slow map been more alluring. If all your yaks are shaved and all your ducks are in a row then it's time to crank the oven and bake a beautiful slow map.
+It's 2016 and slow maps are rarer and more tasty than ever. Never before has the hand crafted slow map been more alluring. If all your yaks are shaved and all your ducks are in a row then it's time to crank the oven and bake a beautiful slow map.
 
 Here are some tips:
 
